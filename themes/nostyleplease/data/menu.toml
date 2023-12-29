@@ -1,21 +1,22 @@
 [[entries]]
-title = "info"
+title = "( <i class='fa-solid fa-ice-cream'></i> )"
 
-  [[entries.entries]]
-  title = "chilling, sipping a diet coke, <br> stitching a dream with six pictures<br> or a picture with six dreams; it's all the same"
+    [[entries.entries]]
+    title = "chilling, sipping a diet coke, <br> stitching a dream with six pictures,<br> a picture with six dreams; <br> always writing <br>"
 
-  [[entries.entries]]
-  title = "~github <i class='fa-brands fa-github-alt'></i>"
-  url = "https://github.com/aditya-K2/"
+
+[[entries]]
+title = "~github <i class='fa-brands fa-github-alt'></i>"
+url = "https://github.com/aditya-K2/"
 
 [[entries]]
 title = "posts *"
 
-  [entries.post_list]
-  limit = 8
-  show_more = true
-  show_more_text = "See archive..."
-  show_more_url = "posts"
+    [entries.post_list]
+    limit = 8
+    show_more = true
+    show_more_text = "See archive..."
+    show_more_url = "posts"
 
 [[entries]]
 title = "rss"
