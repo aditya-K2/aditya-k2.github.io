@@ -28,17 +28,7 @@
   @include theme(#ffffff, #212121, #666666, #076678, #8f3f71);
 }
 
-body[a="dark"] { @include dark-appearance; }
-body[a="light"] { @include light-appearance; }
-
-
-@media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
-}
-
-@media (prefers-color-scheme: light) {
-  body[a="auto"] { @include light-appearance; }
-}
+body[a="auto"] {@include light-appearance; }
 
 // -------------------------------------------- //
 
