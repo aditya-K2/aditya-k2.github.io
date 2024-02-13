@@ -10,13 +10,22 @@ title = "~github <i class='fa-brands fa-github-alt'></i>"
 url = "https://github.com/aditya-K2/"
 
 [[entries]]
-title = "posts *"
+title = "tech/*"
 
-    [entries.post_list]
-    limit = 8
-    show_more = true
-    show_more_text = "See archive..."
-    show_more_url = "posts"
+  [entries.post_list]
+  section = "tech"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "posts/*"
+
+  [entries.post_list]
+  section = "post"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
 
 [[entries]]
 title = "rss"
