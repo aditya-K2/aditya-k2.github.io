@@ -2,21 +2,12 @@
 title = "( <i class='fa-solid fa-ice-cream'></i> )"
 
     [[entries.entries]]
-    title = "chilling  sipping a diet coke  <br> stitching a dream with six pictures <br> a picture with six dreams.<br> it's all the same <br> "
+    title = "chilling  sipping a diet coke.  <br> stitching a dream with six pictures, <br> a picture with six dreams;<br> it's all the same. <br> "
 
 
 [[entries]]
-title = "~github <i class='fa-brands fa-github-alt'></i>"
+title = "~ <i class='fa-brands fa-github-alt'></i>"
 url = "https://github.com/aditya-K2/"
-
-[[entries]]
-title = "tech/*"
-
-  [entries.post_list]
-  section = "tech"
-  show_more = true
-  show_more_text = "See more posts..."
-  show_more_url = "posts"
 
 [[entries]]
 title = "posts/*"
